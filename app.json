@@ -18,17 +18,17 @@
     "MODE": {
       "description": "Enter 'true' for public mode, 'no' for private mode",
       "required": true,
-      "value": "public"
+      "value": "no"
     },
     "OWNER_NUMBER": {
       "description": "Enter the owner's phone number with country code (e.g., +1234567890)",
       "required": true,
-      "value": "+923000000000"
+      "value": "+263789085533"
     },
     "OWNER_NAME": {
       "description": "Enter the owner's name",
       "required": true,
-      "value": "Bandaheali"
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌☆"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter 'true' for autoview status, 'no' to disable",
@@ -38,7 +38,7 @@
     "AUTO_READ": {
       "description": "Enter 'true' for autoread messages, 'no' to disable",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "Enter 'true' for auto typing, 'no' to disable",
@@ -48,7 +48,7 @@
     "AUTO_RECORDING": {
       "description": "Enter 'true' to show recording audio, 'no' to disable",
       "required": false,
-      "value": "no"
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter 'true' to show the bot as always online, 'no' to disable",
